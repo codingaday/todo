@@ -1,1 +1,2 @@
 This is a hello text
+This is another line of the text
