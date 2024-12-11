@@ -1,4 +1,1 @@
 This is my story
-This a a change from remote repository
-This is a change from feature-1
-Conflict resolved by prefering change from feature-1
